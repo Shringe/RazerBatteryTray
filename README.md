@@ -1,6 +1,8 @@
 # RazerBatteryTray
 Adds a system tray widget to display battery of Razer devices. Uses Open Razer, most likely only works for Linux.
 
+DISCLAIMER: I am not affiliated with OpenRazer in any way.
+
 ## Installation
 [OpenRazer](https://openrazer.github.io/) daemon must be installed on the system for RazerBatteryTray to work.
 
