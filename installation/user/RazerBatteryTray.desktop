@@ -1,0 +1,12 @@
+[Desktop Entry]
+Comment=System tray icon for displaying battery percentage of Razer devices.
+Name=RazerBatteryTray
+Icon=~/.local/share/RazerBatteryTray/OpenRazerLogo.svg
+Path=~/.local/share/RazerBatteryTray
+Exec=~/.local/share/RazerBatteryTray/venv/bin/python3 RazerBatteryTray
+
+Type=Application
+StartupNotify=false
+Terminal=false
+Categories=Utility;
+Keywords=RazerBatteryTray;Razer;OpenRazer;

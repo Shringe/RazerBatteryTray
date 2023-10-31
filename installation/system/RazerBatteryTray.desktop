@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=System tray icon for displaying battery percentage of Razer devices.
+Name=RazerBatteryTray
+Icon=/opt/RazerBatteryTray/OpenRazerLogo.svg
+Exec=/usr/bin/RazerBatteryTray
+
+Type=Application
+StartupNotify=false
+Terminal=false
+Categories=Utility;
+Keywords=RazerBatteryTray;Razer;OpenRazer;

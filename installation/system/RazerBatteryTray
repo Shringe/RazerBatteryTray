@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd /opt/RazerBatteryTray
+./venv/bin/python3 RazerBatteryTray $@
